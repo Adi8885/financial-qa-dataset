@@ -1,6 +1,6 @@
 # financial-qa-dataset
 
-This dataset consiste of Question-Answer_Context Pairs. It also consists of metadata for filtering the dataset.
+This dataset consists of Question-Answer_Context Pairs. It also consists of metadata for filtering the records.
 
 ## Repo Structure
 ```
