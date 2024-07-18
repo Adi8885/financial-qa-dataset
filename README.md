@@ -14,8 +14,8 @@ financial-qa-dataset
     │   |── basic_rag_with_evaluation.ipynb
     |
     ├── data
-    │   |── Statements
-    │   |── Reports
+        |── Statements
+        |── Reports
 ```
 
 ## Use Cases
